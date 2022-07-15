@@ -8082,10 +8082,10 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-reading@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-reading/-/vuepress-theme-reading-1.2.0.tgz#5c7b234200f395a94510850467241a1661fcdc7a"
-  integrity sha512-cACj6SBzQ98ZKjAucRTp/QcFqRshF5sMfnzrj0J8rX68XEsXLoajmty0A8jtei9rM3VCAvg7iJ1HxRoxRCwQvA==
+vuepress-theme-reading@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-reading/-/vuepress-theme-reading-2.0.1.tgz#8bf402ebff4080618d19ebbc6de0ecbb6a1d623b"
+  integrity sha512-9CDmmSxZZ7pGYL+/Gll9k7NhhZ29CQpc/YmmsKOZZF0hCOitq43D/XNTxdX//spWuiOZ4Qy3ifNmJKEJt44JwA==
 
 vuepress@^1.9.7:
   version "1.9.7"
