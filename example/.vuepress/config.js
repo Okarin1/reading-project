@@ -1,6 +1,6 @@
 module.exports = {
     title: 'READING',
-    description: '一个干净极简的Vuepress主题!',
+    description: '一个干净极简的Vueress主题!',
     theme: "reading",
     themeConfig: {
       author:'Okarin',
