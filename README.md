@@ -8,7 +8,7 @@
 ## 克隆
 
 ```sh
-git clone https://github.com/Okarin1/coolapk-shenge.git
+git clone https://github.com/Okarin1/reading-project.git
 ```
 
 ## 安装依赖
