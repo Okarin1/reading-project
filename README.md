@@ -20,7 +20,7 @@ yarn install
 ## 本地运行
 
 ```sh
-year dev
+yarn dev
 ```
 
 ## 打包
