@@ -5,5 +5,6 @@ module.exports = {
     themeConfig: {
       author:'Okarin',
       authorLink: 'https://okarin.cn',
+      sortMethod:'date'  
     }
   }
