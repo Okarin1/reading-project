@@ -14,6 +14,6 @@
   "private": false,
   "devDependencies": {
     "vuepress": "^1.9.10",
-    "vuepress-theme-reading": "^2.3.2"
+    "vuepress-theme-reading": "^2.3.3"
   }
 }
